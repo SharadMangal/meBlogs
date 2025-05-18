@@ -78,4 +78,5 @@ class DefaultFirebaseOptions {
     storageBucket: 'meblog-76831.firebasestorage.app',
     iosBundleId: 'com.example.meblogs',
   );
+
 }
